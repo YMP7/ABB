@@ -1,4 +1,4 @@
-# PodMind: ABB Accelerator Recruiter Brief
+# PodMind: Recruiter Brief
 
 ## Positioning
 

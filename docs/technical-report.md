@@ -6,7 +6,7 @@ PodMind is a container-native observability and intelligence prototype for singl
 
 The prototype demonstrates a smart-campus environment with services for student portal, attendance, library upload, document storage, transport, and notifications. It detects resource pressure, maps service relationships, and generates operational recommendations.
 
-The project is also positioned for ABB Accelerator focus areas: Data and Artificial Intelligence, Application and Business Process Monitoring, Advanced Automation, Operational Technology, IoT, Cloud Infrastructure, Digital Workplace, ERP extension, and Sustainability.
+The project covers key focus areas: Data and Artificial Intelligence, Application and Business Process Monitoring, Advanced Automation, Operational Technology, IoT, Cloud Infrastructure, Digital Workplace, ERP extension, and Sustainability.
 
 ## 2. Goals
 

@@ -2,7 +2,7 @@
 
 AI agents for realtime pod resource discovery, anomaly detection, dependency mapping, and industrial edge optimization in single-node Kubernetes environments.
 
-PodMind is shaped as an ABB Accelerator style project across Data and AI, Advanced Automation, Operational Technology, IoT, Application Monitoring, Cloud Infrastructure, and Sustainability. It runs as a lightweight Python service with a browser dashboard. It can read live cluster pod data through the in-cluster Kubernetes API or local `kubectl`, then falls back to a realtime smart-campus simulator when a cluster is not available.
+PodMind covers Data and AI, Advanced Automation, Operational Technology, IoT, Application Monitoring, Cloud Infrastructure, and Sustainability. It runs as a lightweight Python service with a browser dashboard. It can read live cluster pod data through the in-cluster Kubernetes API or local `kubectl`, then falls back to a realtime smart-campus simulator when a cluster is not available.
 
 ## What is included
 
@@ -16,7 +16,7 @@ PodMind is shaped as an ABB Accelerator style project across Data and AI, Advanc
 - Kubernetes deployment with readonly RBAC and NodePort service.
 - Demo smart-campus workloads for Minikube, K3s, MicroK8s, or similar single-node clusters.
 - Technical report in [docs/technical-report.md](docs/technical-report.md).
-- ABB/recruiter brief in [docs/abb-accelerator-brief.md](docs/abb-accelerator-brief.md).
+- Recruiter brief in [docs/abb-accelerator-brief.md](docs/abb-accelerator-brief.md).
 
 ## Required capabilities covered
 
