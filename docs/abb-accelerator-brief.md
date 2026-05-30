@@ -4,7 +4,7 @@
 
 PodMind is an AI-assisted Kubernetes operations platform for single-node industrial edge environments. It discovers pod resource behavior in realtime, maps service dependencies, and turns raw infrastructure telemetry into operator-ready recommendations.
 
-## ABB Focus Area Alignment
+## Focus Area Alignment
 
 | Focus area | PodMind alignment |
 | --- | --- |

@@ -112,7 +112,7 @@ The dashboard includes:
 - Cluster status strip
 - Scenario controls
 - Resource KPI tiles
-- ABB focus-area rail
+- Focus-area rail
 - Realtime resource chart
 - Service dependency graph
 - Agent findings
@@ -150,7 +150,7 @@ The forecast engine generates predictions at 5, 15, 30, and 60-minute horizons:
 
 Snapshots are streamed using server-sent events at a two-second cadence, with polling as a fallback.
 
-## 8.1 ABB Focus-Area Mapping
+## 8.1 Focus-Area Mapping
 
 | Focus area | Implementation evidence |
 | --- | --- |
