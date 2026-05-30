@@ -16,7 +16,7 @@ PodMind covers Data and AI, Advanced Automation, Operational Technology, IoT, Ap
 - Kubernetes deployment with readonly RBAC and NodePort service.
 - Demo smart-campus workloads for Minikube, K3s, MicroK8s, or similar single-node clusters.
 - Technical report in [docs/technical-report.md](docs/technical-report.md).
-- Recruiter brief in [docs/abb-accelerator-brief.md](docs/abb-accelerator-brief.md).
+- Recruiter brief in [docs/abb-accelerator-brief.md](docs/accelerated-focus-brief.md).
 
 ## Required capabilities covered
 
